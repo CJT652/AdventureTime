@@ -10,4 +10,5 @@ Once upon a time, there was a penguin named Paul who lived in the desert. Paul w
 “Cows who?”
 “Cows don’t who. They moo. Or at least I think they do. I’ve never heard one.” 
 
-	The next day, Paul’s mom told him that he had to start Preschool. Paul waddled towards school. Or the direction he thought it was in. 
+The next day, Paul’s mom told him that he had to start Preschool. Paul waddled towards school. Or the direction he thought it was in. 
+[Choice1](Choice1.md)
