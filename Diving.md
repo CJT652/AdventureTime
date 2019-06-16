@@ -4,4 +4,4 @@ The penguin made a perfect headfirst dive into the cactuses.
 “Your turn, Paul!” said the big penguin. 
 Paul didn’t know how to dive, but he did know how to do a cannonball. He cannonballed into the cactuses.
 
-[Get kicked out](KickOut.md)
+[Get kicked out](KickedOut.md)
