@@ -14,4 +14,4 @@ The next day, Paul’s mom told him that he had to start Preschool. Paul waddled
 
 [Choice1](Choice1.md)
 
-![Charlie Penguin](https://CJT652.github.io/AdventureTime/Penguin.jpg)
+![Charlie Penguin](penguin.jpg)
