@@ -14,4 +14,4 @@ The next day, Paul’s mom told him that he had to start Preschool. Paul waddled
 
 [Choice1](Choice1.md)
 
-![Charlie Penguin](Penguin.jpg)
+![Charlie Penguin](/Penguin.jpg)
