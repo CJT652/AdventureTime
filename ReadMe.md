@@ -12,8 +12,8 @@ Once upon a time, there was a penguin named Paul who lived in the desert. Paul w
 
 The next day, Paul’s mom told him that he had to start Preschool. Paul waddled towards school. Or the direction he thought it was in. 
 
-[Go left](Choice1.md)
+[Go left](TurnLeft.md)
 
-[Go right](Choice2.md)
+[Go right](TurnRight.md)
 
 
