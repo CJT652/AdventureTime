@@ -1,4 +1,7 @@
 # Paul the desert penguin 
+
+![Paul the Desert Penguin](Paul the Desert Penguin.pdf)
+
 Once upon a time, there was a penguin named Paul who lived in the desert. Paul was a silly penguin, but none of the other penguins appreciated his silliness. One day, he walked up to a penguin named Serious.
 	“Hi, Serious!” exclaimed Paul. “I have a joke!” 
 	“It’s not the same joke you always say, is it?” asked Serious.
